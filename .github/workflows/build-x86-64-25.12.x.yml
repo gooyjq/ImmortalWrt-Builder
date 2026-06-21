@@ -120,6 +120,8 @@ jobs:
           - 🏠 **后台地址**: ${{ github.event.inputs.custom_router_ip }}
           - 👤 **用户名**: root
           - 🔑 **密码**: 无
+          
+          - ♻️ **在线升级命令**: github_upgrade.sh --upgrade
           EOF
 
           if [ "${{ github.event.inputs.include_docker }}" == "yes" ]; then
