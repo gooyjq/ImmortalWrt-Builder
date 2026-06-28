@@ -46,18 +46,6 @@ https://github.com/wukongdaily/store
 - ### [OpenWrt/Armbian IMG安装器ISO] 🆕
 - https://github.com/wukongdaily/img-installer
 
-<details>
-<summary><h2>🍭相关引用</h2></summary>
-#### 🍭引用和项目参考的仓库
-- https://github.com/wukongdaily/RunFilesBuilder
-- https://github.com/wukongdaily/store
-- https://github.com/sirpdboy/luci-theme-kucat
-- https://github.com/AdguardTeam/AdGuardHome
-- https://github.com/kiddin9/kwrt-packages
-</details>
-
-## ❤️如何构建docker版ImmortalWrt（建议收藏）⬇️
-https://wkdaily.cpolar.cn/15
 # 🎉鸣谢
 
 感谢以下项目与作者对本项目的贡献与灵感 ❤️
@@ -89,11 +77,5 @@ https://wkdaily.cpolar.cn/15
 <a href="https://xz.vumstar.com/"><img src="https://xz.vumstar.com/static/img/logo.png" width="80" height="80" alt="wukongdaily" /></a>
 
 </div>
-
-## ❤️赞助作者 ⬇️⬇️
-
-<a href="https://wkdaily.cpolar.top/01" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-       alt="Buy Me A Coffee"
        style="width:15%; height:auto;">
 </a>
