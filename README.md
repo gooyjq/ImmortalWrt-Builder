@@ -77,5 +77,3 @@ https://github.com/wukongdaily/store
 <a href="https://xz.vumstar.com/"><img src="https://xz.vumstar.com/static/img/logo.png" width="80" height="80" alt="wukongdaily" /></a>
 
 </div>
-       style="width:15%; height:auto;">
-</a>
